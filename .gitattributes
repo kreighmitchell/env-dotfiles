@@ -1,0 +1,5 @@
+*.vim linguist-language=Vim Script
+*.zsh linguist-language=Shell
+*.sh linguist-language=Shell
+*.py linguist-language=Python
+*.md linguist-documentation
